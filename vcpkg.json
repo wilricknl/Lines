@@ -1,0 +1,8 @@
+{
+  "name": "lines",
+  "description": "6 different implementations of doing wide line rendering in OpenGL",
+  "version": "1.0.0",
+  "dependencies": [
+    "glfw3"
+  ]
+}

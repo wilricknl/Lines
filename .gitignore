@@ -1,4 +1,6 @@
 .vscode/**
+.vs/**
+out/**
 build/**
 bin/**
 *.exe
